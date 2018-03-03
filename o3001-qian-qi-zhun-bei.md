@@ -1,22 +1,32 @@
-# 一、注册账户
+# O、前言
+
+如果您拥有Facebook、Google、GitHub账户，也可直接利用这些账户进行直接登录
+
+Q：如何利用以上账户登录？
+
+* A：点击右上角的「**Sign In**」，点击对应的账户登录入口，输入您的账户就可进行登录
+
+# 一、整体步骤预览
 
 ![](/assets/all.png)
 
+## 二、具体步骤
+
 ## （一）打开官网
 
-访问 [Gitbook官网](https://www.gitbook.com/)
+### 1.访问 [Gitbook官网](https://www.gitbook.com/)
 
-\[官网图示\]![](/assets/import.png)
+ \[ 官网图示 \]![](/assets/import.png)
 
 ## （二）填写个人信息
 
-在首页左侧先写个人的注册信息，具体填写内容如下图所示   
+### 在首页左侧先写个人的注册信息，具体填写内容如下图所示
 
- ![](/assets/i1.png)
+### ![](/assets/i1.png)（三）点击注册
 
+点击左下角的「**Sign up for GitBook**」即可进行注册。
 
-
-
+![](/assets/UP.png)
 
 
 
