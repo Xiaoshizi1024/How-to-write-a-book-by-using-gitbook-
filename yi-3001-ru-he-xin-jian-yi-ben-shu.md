@@ -27,10 +27,6 @@
    2. 说明（可省略不写）
 3. 点击**「Create Book」**，建立新书
 
-
-
-
-
 ![](/assets/模板003.png)
 
 # Step3：开始写书
@@ -70,5 +66,5 @@
 2. 在主页面中点击右侧绿色的按键「Read」即可查看 已编辑的效果 
 3. 如果页面打开成功，恭喜你已经成功制作成功了一本书
 
-**注：只要点击了「Publish」该书籍已经发布到网上，打开该本书页面的URL（链接）即可进行访问该本书\(如同本书的链接&lt;**[**https://xiaoshizi1024.gitbooks.io/-gitbook/&gt;）**](https://xiaoshizi1024.gitbooks.io/-gitbook/content/>）)
+**注：只要点击了「Publish」该书籍已经发布到网上，打开该本书页面的URL（链接）即可进行访问该本书\(如同本书的链接&lt;**[**https://xiaoshizi1024.gitbooks.io/-gitbook/**](https://xiaoshizi1024.gitbooks.io/-gitbook/content/>）)
 
