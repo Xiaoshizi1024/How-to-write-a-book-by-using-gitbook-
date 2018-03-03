@@ -16,7 +16,7 @@ Q：如何利用以上账户登录？
 
 ### 1.访问 [Gitbook官网](https://www.gitbook.com/)
 
- \[ 官网图示 \]![](/assets/import.png)
+![](/assets/import.png)
 
 ## （二）填写个人信息
 
@@ -28,5 +28,9 @@ Q：如何利用以上账户登录？
 
 ![](/assets/UP.png)
 
+## （四）登录效果预览
 
+## ![](/assets/impor.png)
+
+既然我们已经将账户注册成功了，那么让我们去建立我们的第一本书吧！
 
